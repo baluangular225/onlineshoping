@@ -61,7 +61,7 @@ const SingleProduct = () => {
                         </div>
                     </div>
                     <div className="addToCart">
-                        <button className="addToCart-button">Add To Cart</button>
+                        <button className="addToCart-button">Add To Cart </button>
                     </div>
                 </div>
             </div>
