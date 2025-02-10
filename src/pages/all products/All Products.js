@@ -13,7 +13,6 @@ const AllProducts = () => {
 
             <Products heading={"Products"} items={allProducts} />
             
-
             <Footer />
 
         </div>
